@@ -2,7 +2,7 @@
 
 ## Bot Rules
 * Do not spam []support.
-* Only report serious bugs.
+* Only create serious support tickets.
 * Do not abuse bugs in the bot.
 * Always report bugs to me so I can fix them as fast as possible.
 
@@ -28,6 +28,7 @@
 * achievement: Create your own minecraft achievement. 
 * meme: Gives you a random meme. 
 * reverse: Reverse text.
+* putin: Displays the dankest picture of putin ever.
 
 ### **Useful:** 
 * help: List all the bots commands.
@@ -38,6 +39,14 @@
 * balthasar-logs: Creates a log channel. 
 * emojis: Gives all the custom emojis in that server. 
 * support: Report a bug/suggestion directly to BOB. 
+* embed: Embeds a message.
+* randomcolor: Gives your a random RGB and Hex color code.
+
+## **Calculator:**
+* add: Add x amount of numbers.
+* subtract: Subtract x amount of numbers.
+* multiply: Multiply x amount of numbers.
+* divide: Divide x amount of numbers.
 
 ### **Admin:** 
 * kick: Kicks a user. 
